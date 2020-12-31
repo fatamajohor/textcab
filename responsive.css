@@ -1,0 +1,42 @@
+/*header starrt*/
+@media(max-width:900px){
+    .content{
+        padding: 100px 0;
+    }
+   
+    
+}
+@media(max-width:868px){
+    .content{
+        padding: 110px 0;
+    }
+   
+}
+
+@media(max-width:768px){
+    .content{
+        padding: 150px 0;
+    }
+ 
+}
+@media(max-width:668px){
+    .content{
+        padding: 150px 0;
+    }
+    
+}
+@media(max-width:568px){
+    .content{
+        padding: 150px 0;
+    }
+   
+   
+}
+@media(max-width:500px){
+    .content{
+        padding: 150px 0;
+    }
+     
+   
+}
+/*header end*/

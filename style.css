@@ -1,0 +1,173 @@
+/* header start*/
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family:'Lato'sans-serif;
+}
+ 
+.header-section{
+    background-image: url(img/Header-img/header-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+     
+  height:739px; 
+   
+    
+}
+   .nav-icon{
+       color:white;
+   }
+   .nav-link{
+       color: white;
+        
+       
+   
+   }
+   .nav-item{
+       margin: 10px;
+   }
+   .active {
+       background-color:#ffc61a ;
+       border-radius: 15%;
+   }
+   .nav-link:hover{
+    background-color:#ffc61a ;
+    border-radius: 15%;
+      color: white;
+}
+ 
+.header-section  h4{
+    color:#ffc61a;
+}
+.header-section h3 {
+    color:white;
+    font-size: 3rem;
+}  
+.header-section h6 {
+    color:white;
+    letter-spacing: 5px;
+    font-size:1.3rem;
+}
+.content{
+    padding: 62px 0;
+}
+/* header end */
+/* texicab start*/
+
+.textcab-section{
+    background-color: #ffc61a;
+    
+}
+.taxtab-cont{
+    padding: 130px 100px;
+    
+}
+.taxtab-cont  h3{
+    text-transform: uppercase;
+}
+.taxtab-cont  h2{
+    text-transform: uppercase;
+}
+ 
+.form h1{
+    color:white
+}
+.form span{
+    color:#ffc61a;
+}
+.form input[type="text"]{
+   width:45%;
+   display:inline-block;
+   border:none;
+   border-bottom: 3px solid #e4e4e4;
+   margin: 5px 3px ;
+}
+.slctchose{
+    
+    border:none;
+    border-bottom: 3px solid #e4e4e4;
+    margin: 5px 3px ;
+    margin: auto;
+ 
+}
+.btncls{
+    
+    margin: 0 10px;
+    padding-bottom: 10px;
+    
+}
+.btnstyle{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+    padding:1px;
+    border-radius: 10px;
+}
+/* texicab end*/
+ /* card start */
+ .card-section{
+     background-color:#ffffff;
+     padding: 22px 36px;
+ }
+ .card1{
+     background-color: #f5f4f2;
+     margin-top: 84px;
+     border: none;
+  }
+  .card-section h3{
+      color:#ffc61a;
+      font-size: 2.5rem;
+      margin-bottom: -12px;
+  }
+  .card-title{
+      text-transform: uppercase;
+  }
+  .cardbtn{
+      background-color: #ffc61a;
+      font-family:'Bebas Neue', cursive; 
+      color:black;
+      font-size: 1.5rem;
+      padding: 0px 30px;
+      border-radius: 10px;
+  }
+  .card img{
+    margin-top: -67px;
+    margin-left: 5px;
+  }
+  .card2{
+    background-color: #ffc61a;
+    margin-top: 84px;
+    border: none;
+  }
+  .cardbtn1{
+    background-color: black;
+    font-family:'Bebas Neue', cursive; 
+    color:white;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    padding: 0px 30px;
+  }
+   .price{
+       color:#ffc61a;
+   }
+ 
+ /* card end */
+ /*content start */
+ .content-section{
+     background-image:url(img/Content/Content-bg.jpg);
+     
+ }
+ .content-section h3{
+    color:#ffc61a;
+    font-size: 2.5rem;
+    margin-bottom: -12px;
+}
+.content-section  h4{
+    color:#ffc61a;
+}
+
+ /* content end */
+
+
+  
